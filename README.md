@@ -1,5 +1,5 @@
 Hi, I'm Sohail 👋
-Aspiring Data Analyst.
+Aspiring Data scientist| Data Analyst.
 
 Skills:
 Excel | Python | SQL | Data Visualization
@@ -10,4 +10,4 @@ Blinkit Sales Dashboard
 Netflix Data Analysis
 
 Currently learning:
-Data Analysis and Machine Learning
+Data Analysis , Data scientist and Machine Learning
